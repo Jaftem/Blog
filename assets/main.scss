@@ -83,6 +83,7 @@ $on-laptop:        800px;
 .right-title ul li a:hover, ul li a:focus {
  color: #FFF;
  background-color: #141E30;
+ text-transform: none;
 }
 
 .n-menu {
@@ -97,5 +98,5 @@ $on-laptop:        800px;
 
 .page-content {
     margin-top: 250px;
-  padding: $spacing-unit 0;
+    padding: $spacing-unit 0;
 }

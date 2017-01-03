@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-    width: 70vw;
-    min-width: 50vh;
-    padding-top: 4vh;
-    margin: 0 auto;
-    height: 0px;
-    background-color: #FFF;
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: 56px;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
 }
 
 .site-title {
@@ -234,52 +234,4 @@
       font-size: 18px;
     }
   }
-}
-
-
-/* Added */
-
-.menu {
-    list-style-type: none;
-    font-family: 'Source Code Pro';
-    font-size: 13px;
-    color: #141E30;
-    float: right;
-    margin-top: 0;
-    padding-top: 0;
-}
-
-li {
-    float: right;
-    text-transform: uppercase;
-    margin-left:40px;
-    padding-bottom: 2px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #EEE;
-}
-ul li a:hover, ul li a:focus {
- color: #FFF;
- background-color: #141E30;
-}
-a {
-    color: #141E30;
-    text-decoration: none;
-}
-.title {
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    text-align: left;
-    margin: 0 auto;
-    font-weight: 700;
-    color: #141E30;
-    display: inline;
-}
-
-.right-title {
-    font-size: 13px;
-    text-align: right;
-    align-self: right;
-    color: #141E30;
-    float: right;
 }

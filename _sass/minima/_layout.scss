@@ -22,6 +22,28 @@
     display: inline;
 }
 
+.right-title {
+    font-size: 13px;
+    text-align: right;
+    align-self: right;
+    color: #141E30;
+    float: right;
+}
+
+.right-title li {
+    float: right;
+    text-transform: uppercase;
+    margin-left:40px;
+    padding-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #EEE;
+}
+.right-title ul li a:hover, ul li a:focus {
+ color: #FFF;
+ background-color: #141E30;
+}
+
 
 .site-nav {
   float: right;

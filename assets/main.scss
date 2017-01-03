@@ -33,9 +33,10 @@ body {
     border-bottom-width: 1px;
     border-bottom-color: #EEE;
 }
-.blog-menu ul li a:hover, ul li a:focus {
+.blog-menu li a:hover, li a:focus {
  color: #FFF;
  background-color: #141E30;
+ text-decoration: none;
 }
 a {
     color: #141E30;

@@ -37,3 +37,51 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');
+/**
+ * Site header
+ */
+.n-header {
+    font-weight: bold;
+    width: 70vw;
+    min-width: 50vh;
+    padding-top: 4vh;
+    margin: 0 auto;
+    height: 0px;
+    background-color: #FFF;
+}
+.n-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    margin: 0 auto;
+    font-weight: 700;
+    color: #141E30;
+    display: inline;
+}
+
+.right-title {
+    font-size: 13px;
+    text-align: right;
+    align-self: right;
+    color: #141E30;
+    float: right;
+}
+
+.right-title li {
+    float: right;
+    text-transform: uppercase;
+    margin-left:40px;
+    padding-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #EEE;
+}
+.right-title ul li a:hover, ul li a:focus {
+ color: #FFF;
+ background-color: #141E30;
+}
+

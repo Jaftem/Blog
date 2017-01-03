@@ -46,11 +46,11 @@ $on-laptop:        800px;
  */
 .n-header {
     font-weight: bold;
-    width: 70vw;
-    min-width: 50vh;
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
     padding-top: 4vh;
-    margin: 0 auto;
-    height: 0px;
     background-color: #FFF;
 }
 .n-title {

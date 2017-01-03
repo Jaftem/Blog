@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:700')
+
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -87,7 +93,7 @@ $on-laptop:        800px;
 }
 
 .n-menu {
-    list-style-type: none;
+    list-style-type: none !important;
     font-family: 'Source Code Pro';
     font-size: 13px;
     color: #141E30;

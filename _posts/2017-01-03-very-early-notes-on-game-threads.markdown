@@ -18,7 +18,7 @@ is something that should be kept in mind moving forward:
 
 
 
-Below I've outlined my strategy to fight the above graphic and increase Game Thread's *chances* of success.
+Below I've outlined a segment of my strategy to fight the above graphic and increase Game Thread's *chances* of success.
 
 ### Creating an MVP 
 

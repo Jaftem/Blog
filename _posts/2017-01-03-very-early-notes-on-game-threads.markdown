@@ -14,7 +14,7 @@ into the hands of real users. Even though Game Threads isn't an actual startup, 
 is something that should be kept in mind moving forward:
 
 {: .center}
-![Top 20 Reasons Startups Fail]({{ site.url }}/assets/img/20reasons.png){:width="450px"}
+![Top 20 Reasons Startups Fail]({{ site.baseurl }}/assets/img/20reasons.png){:width="450px"}
 
 
 
@@ -51,7 +51,7 @@ with Angular2, which means each of us has to learn web development and these fra
 created a functional *offline* chatroom prototype with a very quick layout design all made in Angular2:
 
 {: .center}
-![Game Threads prototype]({{ site.url }}/assets/img/gt-prototype.png)
+![Game Threads prototype]({{ site.baseurl }}/assets/img/gt-prototype.png)
 
 By the way, while learning Angular2 and reactive data flow, I was able to create [the terminal on my front page](http://www.jaftem.com)
 with near-identical code used for the above chatroom. This type of data flow also makes creating a chatroom incredibly easy and flexible:

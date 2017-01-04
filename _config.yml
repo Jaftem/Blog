@@ -22,6 +22,7 @@ twitter_username: jaftem
 github_username:  jaftem
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
 theme: minima
 gems:
@@ -29,3 +30,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+

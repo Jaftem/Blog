@@ -21,6 +21,8 @@ url: "http://www.jaftem.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: jaftem
 github_username:  jaftem
 comments: true
+disqus:
+  shortname: jaftem
 
 
 # Build settings

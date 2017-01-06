@@ -20,6 +20,8 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://www.jaftem.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jaftem
 github_username:  jaftem
+comments: true
+
 
 # Build settings
 highlighter: rouge

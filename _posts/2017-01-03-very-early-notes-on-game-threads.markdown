@@ -39,6 +39,9 @@ during this trial period:
 * Average posts per minute/unit of time.
 * If possible, how traffic stresses the server.
 * Different extra chatroom features as variables from game day to game day.
+  * Box score
+  * Twitter/news feed
+  * Chatroom features (nested posts, "slow mode" for high volume chatrooms, sorting features)
 
 The hope is that users participate at least as close as possible or over the amount of time a sporting event lasts. For all-day
 events like NFL Sunday, we ideally want some users would be participating for a relatively long portion of the day.
